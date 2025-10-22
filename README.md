@@ -1,5 +1,13 @@
-
 ![header](https://capsule-render.vercel.app/api?type=blur&color=0:ff9a00,50:ff3d00,100:8e2de2&height=300&section=header&text=hey%20there!_&fontColor=ffd6a5&fontSize=90)
+
+## ABOUT ME 🎮
+```javascript
+const michael = {
+  pronouns: "he" | "him",
+  languages: [Python, HTML, CSS, Javascript, Java, C#],
+  hobbies: ["Programming", "Gaming", "Video Editing", "3D Animating"]
+}
+```
 
 <!--
 **misckiua/misckiua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
